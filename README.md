@@ -2,7 +2,7 @@
   I am vyishere (yes)
   - 🔭 I'm currently working on : 
     - a(nother) Discord bot using python (are you serious?)
-    - a vertical-scrolling rhythm game (like stepmania)
+    - some basic offline games
   - 🌱 I’m currently learning python, javascript, css, ~~turbopascal~~
   - ⚡ vyishere's facts:
     - A cracked developer who likes reading the docs but don't know how to use them
